@@ -16,11 +16,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@testing-library/react": "^10.4.8",
     "concurrently": "^4.1.0",
     "nodemon": "^1.18.7"
   },
   "dependencies": {
     "express": "^4.16.3",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "react-table": "^7.5.0",
+    "react-table-v6": "^6.8.6",
+    "table": "^5.4.6"
   }
 }
