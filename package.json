@@ -22,13 +22,20 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
+    "babel-eslint": "^9.0.0",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.5",
+    "eslint": "^5.12.0",
     "express": "^4.16.3",
     "if-env": "^1.0.4",
+    "jest": "^23.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
     "react-table": "^7.5.0",
     "react-table-v6": "^6.8.6",
-    "table": "^5.4.6"
+    "table": "^5.4.6",
+    "webpack": "^4.28.3",
+    "webpack-dev-server": "^3.1.14"
   }
 }
